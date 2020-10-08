@@ -1,5 +1,5 @@
 # Connect-four-game
-This is a cool multiplayer game made using just Pygame.
+This is a cool multiplayer game made using just Pygame. The game can be played using mouse.
 
 ## How to play
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Pygame.
